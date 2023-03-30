@@ -1,1 +1,1 @@
-web: gunicorn Canteen_management_system-main.wsgi --log-file -
+web: gunicorn CCMS.wsgi --log-file -
