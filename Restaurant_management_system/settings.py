@@ -27,6 +27,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','.herokuapp.com']
 
+STATIC_ROOT = "/Users/admin/Desktop/meet/Canteen-Management-System/shop/static"
+
 
 # Application definition
 
